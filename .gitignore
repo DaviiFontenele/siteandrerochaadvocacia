@@ -1,15 +1,5 @@
-# Dependency directories
-node_modules/
-code/frontend/node_modules/
-
-# Build outputs
-dist/
-code/frontend/dist/
-
-# Backup, ideas, and auxiliary folders
-code/ideas/
-code/img/
-code/skill/
+# Exclude original project subdirectory (files are now directly at the root)
+code/
 
 # Logs
 *.log
