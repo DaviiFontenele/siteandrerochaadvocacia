@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+code/frontend/node_modules/
+
+# Build outputs
+dist/
+code/frontend/dist/
+
+# Backup, ideas, and auxiliary folders
+code/ideas/
+code/img/
+code/skill/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# IDE / System
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
